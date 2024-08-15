@@ -195,7 +195,7 @@ footer > div {
   padding: 10px;
 }
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 500px) {
   .firstsection {
     flex-direction: column-reverse;
     margin: unset;
